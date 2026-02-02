@@ -17,7 +17,9 @@
 **Generative AI used**: Claude AI
 **Prompts**:
 	- "How do I implement oss.c?" - Requested guidance on the parent process with fork/exec/wait
+
 	- "I'm getting compilation errors" - Debugging help for Makefile tab issues and missing function declarations
+
 	- "How do I use git and push to GitHub?" - Assistance with version control workflow and authentication
 
 The AI explained concepts like process management, system calls (for, exec, wait), Makefile syntax, and git commands. I understand how all the parts of my code work and was able to test and verify the functionality independently.
