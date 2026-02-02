@@ -16,6 +16,7 @@
 
 **Generative AI used**: Claude AI
 **Prompts**:
+
 	- "How do I implement oss.c?" - Requested guidance on the parent process with fork/exec/wait
 
 	- "I'm getting compilation errors" - Debugging help for Makefile tab issues and missing function declarations
