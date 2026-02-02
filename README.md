@@ -1,14 +1,19 @@
 # OS Process Management Project
 
-Name: Kayla Gaynor
-Date: February 2, 2026
-Environment: macOS (Darwin), using gcc compiler and terminal
-How to compile the project:
+**Name**: Kayla Gaynor
+**Date**: February 2, 2026
+**Environment**: macOS (Darwin), using gcc compiler and terminal
+
+**How to compile the project**:
 	Type 'make'
-Example of how to run the project:
+
+**Example of how to run the project**:
 	./oss -n 5 -s 2 -t 3
-Generative AI used: Claude AI
-Prompts:
+
+## AI Assistance Acknowledgmenet
+
+**Generative AI used**: Claude AI
+**Prompts**:
 	- "How do I implement oss.c?" - Requested guidance on the parent process with fork/exec/wait
 	- "I'm getting compilation errors" - Debugging help for Makefile tab issues and missing function declarations
 	- "How do I use git and push to GitHub?" - Assistance with version control workflow and authentication
