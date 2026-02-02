@@ -1,0 +1,4 @@
+echo "oss" >> .gitignore
+echo "user" >> .gitignore
+echo "*.dSYM/" >> .gitignore
+echo "*.o" >> .gitignore
