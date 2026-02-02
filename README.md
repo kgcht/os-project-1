@@ -7,6 +7,14 @@ How to compile the project:
 	Type 'make'
 Example of how to run the project:
 	./oss -n 5 -s 2 -t 3
+Generative AI used: Claude AI
+Prompts:
+	- "How do I implement oss.c?" - Requested guidance on the parent process with fork/exec/wait
+	- "I'm getting compilation errors" - Debugging help for Makefile tab issues and missing function declarations
+	- "How do I use git and push to GitHub?" - Assistance with version control workflow and authentication
+
+The AI explained concepts like process management, system calls (for, exec, wait), Makefile syntax, and git commands. I understand how all the parts of my code work and was able to test and verify the functionality independently.
+
 
 ## Project Description
 This project implements a simple process management simulator consisting of two programs:
