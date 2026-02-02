@@ -23,6 +23,8 @@
 
 	- "How do I use git and push to GitHub?" - Assistance with version control workflow and authentication
 
+**Summary**:
+
 The AI explained concepts like process management, system calls (for, exec, wait), Makefile syntax, and git commands. I understand how all the parts of my code work and was able to test and verify the functionality independently.
 
 
