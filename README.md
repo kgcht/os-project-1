@@ -14,15 +14,16 @@ make
 # How to Run
 ./oss [-h] [-n proc] [-s simul] [-t iter]
 # Options:
--h: Display help message
--n proc: Total number of child processes to launch
--s simul: Maximum number of simultaneous child processes
--t iter: Number of iterations each user process should perform
+- **h**: Display help message
+- **n proc**: Total number of child processes to launch
+- **s simul**: Maximum number of simultaneous child processes
+- **t iter**: Number of iterations each user process should perform
 
 # How to Clean
 make clean
 
 # Files
-oss.c - Operating system simulator (parent process)
-user.c - User process (child process)
-Makefile - Build configuration
+- **oss.c** - Operating system simulator (parent process)
+- **user.c** - User process (child process)
+- **Makefile** - Build configuration
+
