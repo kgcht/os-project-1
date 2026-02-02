@@ -1,7 +1,9 @@
 # OS Process Management Project
 
 **Name**: Kayla Gaynor
+
 **Date**: February 2, 2026
+
 **Environment**: macOS (Darwin), using gcc compiler and terminal
 
 **How to compile the project**:
